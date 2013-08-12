@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_register"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/register"/>
+    <item
+        android:id="@+id/action_cancel"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/cancel"
+        android:visible="false"/>
+
+</menu>

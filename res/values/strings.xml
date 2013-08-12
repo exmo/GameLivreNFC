@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Consegi 2013</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_add">Adicionar</string>
+    <string name="title_activity_keynote">Palestra</string>
+    <string name="checkin">CHECKIN</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="text_info_add_user">Informe os dados do participante abaixo.</string>
+    <string name="text_info_add_user_nfc">Aproxime o dispositivo da tag NFC.</string>
+    <string name="keynote">Palestra</string>
+    <string name="title_activity_user">Participante</string>
+    <string name="edittext_hint_user_name">Informe o nome</string>
+    <string name="edittext_hint_user_email">Informe o e-mail</string>
+    <string name="edittext_hint_user_phone">Informe o telefone</string>
+    <string name="register">Registrar</string>
+    <string name="message_user_not_registered">Participante ainda não cadastrado. Informe os demais campos para realizar o cadastro.</string>
+    <string name="nfc_write_success">Tag gravada com sucesso.</string>
+    <string name="nfc_write_fail">Houve uma Falha na Gravação. Tente Novamente.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add_user_server_fail">Tente novamente. Ocorreu uma falha ao contactar nosso servidor remoto.</string>
+    <string name="date">Data</string>
+    <string name="speaker">Palestrante</string>
+
+</resources>
